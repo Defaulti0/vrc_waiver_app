@@ -1,0 +1,6 @@
+{
+  "appTitle": "vrc_waiver_app",
+  "@appTitle": {
+    "description": "The title of the application"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1022909081727",
+    "project_id": "vrc-waiver-app",
+    "storage_bucket": "vrc-waiver-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1022909081727:android:f29e5005ddc83a4185b74a",
+        "android_client_info": {
+          "package_name": "com.example.vrc_waiver_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoTVKeo_TTqgDiFsOm9dRZoJRfUP6KA7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
